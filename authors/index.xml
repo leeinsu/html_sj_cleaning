@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on SJ Cleaning</title>
-    <link>https://leeinsu.github.io/html_sj_cleaning/authors/</link>
+    <link>https://sjcleaning.com.au//authors/</link>
     <description>Recent content in Authors on SJ Cleaning</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://leeinsu.github.io/html_sj_cleaning/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sjcleaning.com.au//authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
